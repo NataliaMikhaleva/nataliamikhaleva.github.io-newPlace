@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ea7eef0-c9d8-4906-ad7e-496a7695fa68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/06-js-startkit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/06-js-startkit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blocks/button-edit/button-edit.css" beforeDir="false" afterPath="$PROJECT_DIR$/../blocks/button-edit/button-edit.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blocks/error-message/error-message.css" beforeDir="false" afterPath="$PROJECT_DIR$/../blocks/error-message/error-message.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blocks/popup-card/__content/popup-card__content.css" beforeDir="false" afterPath="$PROJECT_DIR$/../blocks/popup-card/__content/popup-card__content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blocks/popup-card/__image/popup-card__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/../blocks/popup-card/__image/popup-card__image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blocks/popup-card/_is-opened/popup-card_is-opened.css" beforeDir="false" afterPath="$PROJECT_DIR$/../blocks/popup-card/_is-opened/popup-card_is-opened.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blocks/popup-card/popup-card.css" beforeDir="false" afterPath="$PROJECT_DIR$/../blocks/popup-card/popup-card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blocks/popup/__button/_notactive/popup__button_notactive.css" beforeDir="false" afterPath="$PROJECT_DIR$/../blocks/popup/__button/_notactive/popup__button_notactive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blocks/popup/__button/popup__button_edit.css" beforeDir="false" afterPath="$PROJECT_DIR$/../blocks/popup/__button/popup__button_edit.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blocks/user-info/__button-edit/user-info__button-edit.css" beforeDir="false" afterPath="$PROJECT_DIR$/../blocks/user-info/__button-edit/user-info__button-edit.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../initialCards.js" beforeDir="false" afterPath="$PROJECT_DIR$/../initialCards.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1c2pT8CZluC9T4m8jYe24XEStJh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ea7eef0-c9d8-4906-ad7e-496a7695fa68" name="Default Changelist" comment="" />
+      <created>1589736547321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589736547321</updated>
+      <workItem from="1589736548808" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+</project>

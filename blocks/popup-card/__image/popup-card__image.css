@@ -1,0 +1,10 @@
+.popup-card__image {
+    width: 450px;
+    height: 561px;
+    max-width: 80vw;
+    max-height: 80vh;
+    background-repeat: no-repeat;
+     background-size: cover;
+
+
+}

@@ -1,0 +1,8 @@
+.popup-card__content {
+    position: relative;
+    /*width: 450px;*/
+    /*height: 561px;*/
+
+    max-width: 80vw;
+    max-height: 80vh;
+}
