@@ -54,25 +54,6 @@ export default class CardList {
   }  
 
   testCardId(resJbj) {
-    /*
-      Можно лучше: не хардкодить id пользователя, а получать из данных пользователя принимаемых с сервера
-
-      для этого можно использовать Promise.all
-      https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Promise/all
-
-      Выглядит этот код примерно так:
-        Promise.all([     //в Promise.all передаем массив промисов которые нужно выполнить
-          this.api.getUserData(),
-          this.api.getInitialCards()
-        ])    
-          .then((values)=>{    //попадаем сюда когда оба промиса будут выполнены
-            const [userData, initialCards] = values;
-            ........
-          })
-          .catch((err)=>{     //попадаем сюда если один из промисов завершаться ошибкой
-            console.log(err);
-          })
-    */
     if(resJbj.owner._id === "ed2020d03ead4c04f8eeadc2") {
       return true
     }
