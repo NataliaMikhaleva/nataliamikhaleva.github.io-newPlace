@@ -1,8 +1,9 @@
 # nataliamikhaleva.github.io-newPlace
 Проект "Новое место" - учебный проект с возможностью пользователя добавлять информацию о себе, а также карточки с картинками понравившихся мест.
-Использовались технологии: ES6, Babel, OOP, CSS3, HTML5, Webpack, OOP, BEM
-Пакеты которые используются в сборках:
 
+Использовались технологии: ES6, Babel, OOP, CSS3, HTML5, Webpack, OOP, BEM.
+
+Пакеты которые используются в сборках:
 Babel CLI
 Babel Core
 Babel Preset Evnvironment
