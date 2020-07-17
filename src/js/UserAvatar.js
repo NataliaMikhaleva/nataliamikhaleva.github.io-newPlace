@@ -1,4 +1,4 @@
-class UserAvatar {
+export default class UserAvatar {
     constructor(api, someForm, photo, popupIsClosed) {
       this.api = api;
       this.someForm = someForm;

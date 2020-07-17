@@ -1,4 +1,4 @@
-class UserInfo {
+export default class UserInfo {
   constructor(container, api, someForm, popupIsClosed, popupIsOpened) {
       this.container = container;  
       this.api = api;

@@ -1,5 +1,5 @@
 // для закрытия попапа с картинкой
-class PopupImage {
+export default class PopupImage {
     constructor(somePopup) {
       this.somePopup = somePopup;
 

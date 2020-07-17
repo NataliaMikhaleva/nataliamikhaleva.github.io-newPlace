@@ -1,4 +1,4 @@
-class FormValidator {
+export default class FormValidator {
   constructor(someForm) {
     this.someForm = someForm;
     this.checkInputValidity = this.checkInputValidity.bind(this);

@@ -1,4 +1,4 @@
-class CardList {
+export default class CardList {
   constructor (cardContainer, api, someForm, createNewCard, popupNewPlaceIsClosed) {
     
     this.cardContainer = cardContainer; 
