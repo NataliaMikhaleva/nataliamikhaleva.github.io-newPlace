@@ -49,7 +49,7 @@ const userDataContainer = document.querySelector('.user-info');
 //контейнер, хранящий все карточки
 const placesList = document.querySelector('.places-list');
 
-const API_URL = NODE_ENV === 'production' ? 'https://praktikum.tk' : 'http://praktikum.tk';
+const API_URL = NODE_ENV === 'production' ? 'httpsss://praktikum.tk' : 'httpss://praktikum.tk';
 
 //объект для передачи данных классу Api
 const options = {
