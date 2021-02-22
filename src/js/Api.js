@@ -88,7 +88,7 @@ export default class Api {
       return fetch(`${this.baseUrl}/users/me/avatar`, {
         method: 'PATCH',
         headers: {
-          authorization: '5f964995-7da7-4204-b259-11a4aa038056',
+         authorization: '5f964995-7da7-4204-b259-11a4aa038056',
           'Content-Type': 'application/json'
         },
         body: JSON.stringify({

@@ -21,19 +21,7 @@ export default class UserAvatar {
           alert(err);
           console.log(err);
         })
-        /* 
-           + Надо исправить: закрывать попап только если сервер ответил подтверждением
-           т.е. расположить закрытие в блоке then
-        */
-        
-        /* 
-           + Надо исправить: изменения текста кнопки делать только после того как
-           запрос на сервер выполнился. Нужно разместить в блоке finally
-           https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Promise/finally
-           .finally(function() {
-              this.popupButtoAvatar.textContent = 'Сохранить';  // завершен (успешно или с ошибкой)
-            });
-        */
+       
        .finally(() => {
           this.popupButtonAvatar.textContent = 'Сохранить'; 
         });

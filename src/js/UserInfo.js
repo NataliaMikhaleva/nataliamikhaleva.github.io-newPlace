@@ -36,10 +36,6 @@ export default class UserInfo {
       console.log(err);
     })
 
-    /* 
-        + Надо исправить: закрывать попап только если сервер ответил подтверждением
-        т.е. расположить закрытие в блоке then
-    */
   }
 
   setDefaultInfo() {
